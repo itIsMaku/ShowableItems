@@ -1,0 +1,6 @@
+name: ShowableItems
+version: '${version}'
+main: cz.maku.showableitems.ShowableItems
+api-version: 1.17
+depend: [ HolographicDisplays ]
+authors: [ itIsMaku ]
